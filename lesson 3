@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<h1>MOVIES</h1><br>
+<body><br>
+    <p>A <mark>Movie</mark>is a cinema film. Movies are made in several different types of genres. Here is a list of some of my favourite movies</p><br>
+    <ul>
+        <li><h4>All about Lily Chou Chou</h4></li><br>
+        <li><h4>Jab We Met</h4></li><br>
+        <li><h4>Ye Jawaani hai Deevani</h4></li><br>
+        <li><h4>LaLa Land</h4></li><br>
+        <li><h4>City of Angels</h4></li><br>
+    </ul><br>
+    <p>Some of these movies can be streamed on <a>href=https://www.netflix.com/browse>Netflix</a> , and others can be streamed on other streaming websites.</p><br>
+    <table><br>
+        <tr><br>
+        <th>Title</th><br>
+        <th>Release</th><br>
+        <th>Rating</th><br>
+        </tr><br>
+        <tr><br>
+            <td>All about Lily Chou Chou</td><br>
+            <td>2001</td><br>
+            <td>4.3</td><br>
+        </tr><br>
+        <tr><br>
+            <td>Jab We Met</td><br>
+            <td>2007</td><br>
+            <td>4.9</td><br>
+        </tr><br>
+        <tr><br>
+            <td>Ye Jawaani hai Deevani</td><br>
+            <td>2013</td><br>
+            <td>4.8</td><br>
+        </tr><br>
+        <tr><br>
+            <td>LaLa Land</td><br>
+            <td>2016</td><br>
+            <td>4.4</td><br>
+        </tr><br>
+        <tr><br>
+            <td>City of Angels</td><br>
+            <td>1998</td><br>
+            <td>4.4</td><br>
+        </tr><br>
+    </table><br>
+</body>
