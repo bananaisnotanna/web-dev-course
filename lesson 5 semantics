@@ -1,0 +1,85 @@
+!DOCTYPE html>
+
+<html>
+
+<head>
+<h1>MUSIC</h1><br>
+<body><br>
+<body><br>
+    <div class="myDiv"><br>
+<h3>What is <mark>Music?</mark></h3><br>
+<p>Music is a collection of coordinated sound or sounds. Making music is the process of putting sounds and tones in an order, often combining them to create a unified composition.</p><br>
+<p>Individuals can make Music solo or in a group. When a group of people make music together they are referred to as a Band.</p><br>
+<h3>My favourtie Band is Arctic Monkeys which is an English rock band formed in 2002 in Sheffield. </h3><br>
+</div><br>
+    <div class="myDiv"><br>
+        <section><br>
+        <h2>Information on the Arctic Monkeys</h2><br>
+<p><h3>A picture of the Arctic Monkeys:</h3></p><br>
+<img src="image.jpeg" alt="picture of band members in artic monkeys"
+style="width:128;height:128;"><br>
+    </div><br>
+    <div class="myDiv"><br>
+<h3>Here is a Video of the Arctic Monkeys</h3><br>
+<video width="256" height="256" controls><br>
+    <source src="video.mp4" type="video/mp4"><br>
+    Your browser does not support the video tag.<br>
+</video><br>
+    </div><br>
+    <div class="myDiv"><br>
+<h3>Here is an audio file of the Arctic Monkeys</h3><br>
+<audio controls autoplay><br>
+    <source src="name.mp3" type="audio/mpeg"><br>
+    Your browser does not support the audio tag.<br>
+    </audio><br>
+    </div><br>
+
+ <div class="myDiv"><br>
+<h3>These are 3 of the most popular songs by the Arctic monkeys</h3><br>
+<table><br>
+    <tr><br>
+        <th>Song</th><br>
+        <th>Year of Release</th><br>
+        <th>Number of spotify streams</th><br>
+    </tr><br>
+    <tr><br>
+        <td>I Wanna Be Yours</td><br>
+        <td>2013</td><br>
+        <td>2.9B</td><br>
+    </tr><br>
+    <tr><br>
+        <td>505</td><br>
+        <td>2007</td><br>
+        <td>2.16B</td><br>
+    </tr><br>
+    <tr><br>
+        <td>Do I Wanna Know?</td><br>
+        <td>2013</td><br>
+        <td>2.4B</td><br>
+    </tr><br>
+</table><br>
+    </div><br>
+    <article><br>
+    <h3>Here is an interesting fact about the Arctic Monkeys</h3><br>
+    <p>The Arctic Monkeys have been nominated for the Grammys 9 times.</p><br>
+    </article><br>
+</section><br>
+    <div class="myDiv"><br>
+        <h3>My favourite song by the Arctic Monkeys</h3><br>
+<iframe width="256" height="256"
+src="https://youtu.be/3PyoxMSEHYI?si=jL_MK1hqKrzUTzm0">
+</iframe><br>
+    </div><br>
+    <div class="myDiv"><br>
+        <footer><br>
+        <header><br>
+<h3>Navigation Links</h3><br>
+<nav><Br>
+<ul><br>
+    <li><a href="https://www.instagram.com/arcticmonkeys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Arctic Monkeys IG.</a></li><br>
+    <li><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH?si=k0H7FZBaSKCXjnUxoTr5Mg">Arctic Monkeys Spotify.</a></li><br>
+</ul><br>
+</nav><br>
+        </header><br>
+        </footer><br>
+    </body>
