@@ -1,0 +1,31 @@
+!DOCTYPE html>
+
+<html>
+
+<head>
+
+<h1>Details of User</h1><br>
+<body><br>
+<form><br>
+    <fieldset><br>
+    <legend><h3>Details of User</h3></legend><br>
+    <label>First Name</label><br>
+    <input type="text" id="name"><br>
+    <label>Last Name</label><br>
+    <input type="text" id="name"><br>
+    <label>Gender</label><br>
+    <input type="radio" id="gender" value="female">Female<br>
+    <input type="radio" id="gender" value="male">Male<br>
+    <label>Email</label><br>
+    <input type="text" id="email"><br>
+    <label>Password</label><br>
+    <input type="password" id="password"><br>
+    <label>Birthday</label><br>
+    <input type="date" id="birthday"><br>
+    <label>Address</label><br>
+    <input type="text" id="address"><br>
+    <label>Image</label><br>
+    <button>choose file</button><br>
+    </fieldset><br>
+</form><br>
+</body>
