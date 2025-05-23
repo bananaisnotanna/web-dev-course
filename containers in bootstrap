@@ -1,44 +1,29 @@
 <!DOCTYPE html>
 
-<html lang="en">
-
 <head>
 
-<title>Border and container </title>
-
-<meta charset="utf-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
 
 </head>
 
 <body>
+    <div class="container bg-warning text-white">
+        <h1>My Hobbies</h1>
+        <p>This webpage is about my hobbies.</p>
+    </div>
 
-<div class="container border 5px solid black">
+    <div class="container-fluid bg-success text-white">
+        <h2>These are my hobbies.</h2>
+        <p>Listening to Music, watching movies, drawing, etc.</p>
+    </div>
 
-<h1>Codingal</h1>
+    <div class="container border 4px black">
+        <h3>Thank you for reading.</h3>
+    </div>
+    <div class="container p-3000 mb-300 bg-danger text-black">
+        <h3>Thank you for reading.</h3>
 
-<p>Making kids fall in love with coding</p>
-
-</div>
-
-<div class="container p-3000 mb-300 bg-primary text-white">
-
-<h1>Codingal</h1>
-
-<p>Making kids fall in love with coding</p>
-
-</div>
-
-<div class ="container p-3 my-3 bg-danger text-white">
-
-<h1>My First Bootstrap Webpage</h1> <p>This container has a dark backgound with white text, border and some extra padding and margin</p>
-
-</div>
-
+    </div>
 </body>
-
 </html>
