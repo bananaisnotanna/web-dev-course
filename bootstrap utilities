@@ -4,12 +4,6 @@
 
 <head>
 
-<title>Bootstrap Example</title>
-
-<meta charset="utf-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -18,20 +12,46 @@
 
 <body>
 
-<div class="container">
 
-<h2>Basic Progress Bar</h2>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 style="color :blueviolet;">
+            SPORTS
+        </h1><br>
 
-<p>To create a default progress bar, add a .progress class to a container element and add the progress-bar class to its child element. Use the CSS width property to set the width of the progress bar:</p>
+    <p>This webpage will talk about sports.</p><br>
+    </div>
+</div>
+    <div class="container mt-3">
+        
+        <h2>Select your favourite sport</h2><br>
+        <button type="button" class="btn btn-primary">Football</button><br>
+        <button type="button" class="btn btn-secondary">Cricket</button><br>
+        <button type="button" class="btn btn-success">Hockey</button><br>
+        <button type="button" class="btn btn-danger">Swimming</button><br>
+        <button type="button" class="btn btn-warning">Badminton</button><br>
+
+    
+</div>
+
+<h3>You're almost done!</h3><br>
 
 <div class="progress">
+    <div class="progress-bar" style="width:80%">80%
 
-<div class="progress-bar" style="width:20%">20%</div>
-
+    </div><br>
 </div>
 
+<div class="container">
+    <h4>These are examples of some other sports</h4><br>
+    <span class="badge badge-primary">Tennis</span><br>
+    <span class="badge badge-secondary">Baseball</span><br>
+    <span class="badge badge-success">Boxing</span><br>
+    <span class="badge badge-danger">Karate</span><br>
+    <span class="badge badge-warning">Ice hockey</span><br>
+    <span class="badge badge-info">Volleyball</span><br>
+    <span class="badge badge-light">Basketball</span><br>
+    <span class="badge badge-dark">Ice Hockey</span><br>
 </div>
-
 </body>
-
 </html>
