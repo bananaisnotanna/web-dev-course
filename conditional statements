@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Conditional statements</title>
+    </head>
+    <body>
+        <script>
+
+                        let num = Number(prompt("Enter a Number:"));
+
+// num % 17
+
+                    if (num % 17 === 0) {
+                    document.write("The number is divisible by 17.");}
+                    else{
+                        document.write("The number is not divisible by 17.")
+                    }
+                    </script>
+
+            
+            </script>
+
+    </body>
+</html>
