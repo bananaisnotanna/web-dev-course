@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>DOM:Document object Model</title>
+    </head>
+    <body>
+        name:<p> <id="pid1">x</p>
+        <script>
+            // console.login("Hello World");
+            
+        </script>
+    </body>
+</html>
