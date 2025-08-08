@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+div {
+    right:30px;
+    border:3px;
+}
+div.relative {
+    position: absolute;
+    left:55px;
+    border:3px;
+}
+div.sticky {
+    position:sticky;
+    top:3px;
+    left:30px;
+    width:100px;
+    border:3px;
+}
+div.absolute {
+    position:absolute;
+    left:45px;
+    border:3px
+}
+div.fixed {
+    position:fixed;
+    top:0;
+    right:40px;
+    width:300px;
+    border:3px;
+}
+div.static {
+    
+}
+</style>
+</head>
+<body>
+    <h1>Demonstrating positioning in css while talking about random Animals</h1><br>
+    <div><br>
+        Dogs have an incredible sense of smell.
+    </div><br>
+    <div class="relative"><br>
+        Parrots are known for their vibrant colors and long lifespans.
+    </div><br>
+    <div class="sticky"><br>
+        Cats have 32 muscles in each ear.
+    </div><br>
+    <div class="absolute"><br>
+        There are 7 species of marine turtles.
+    </div><br>
+    <div class="fixed"><br>
+        Elephants are the largest land mammals.
+    </div><br>
+</body>
+</html>
+
+    
+
+    
