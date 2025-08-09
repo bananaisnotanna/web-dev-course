@@ -1,0 +1,27 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+            function sum(a,b){
+                return a+ b
+            }
+
+            function sub(a,b){
+                return a-b
+            }
+
+            function mul(a,b){
+                return a*b}
+
+            funtion div(a,b){
+                 return a/b
+            }
+
+            function calculate(a,b,sum){
+                var result = sum(a,b)
+                document.write("result is"+result, "<br>")
+            }
+    </body>
+</html>
