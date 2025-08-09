@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>arrays, map</title>
+    </head>
+    <body>
+        <script>
+
+            var arrName = [1,2,3,4,5,,6, "farhan", "shreth", "Anna", "12.4", true, false]
+            var ages = [10, 12, 14, 10]
+            document.write("ages ka value : ", ages, "<br>")
+            document.write("arrName k andar me elemnts : ", arrName, "<br>")
+            // index:
+            var students = ["Farhan", " Shresth", "Anna", "Iraj"]
+            document.write()
+        </script>
+    </body>
+</html>
