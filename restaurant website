@@ -196,3 +196,178 @@ Crumble Cookie
 
 
 </div>
+
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+        <style>
+        body {
+
+            background-color: #bfbdc2;
+
+        }
+
+        .header {
+
+            background-color: #13068c;
+
+            color: white;
+
+            display: flex;
+
+            justify-content: space-evenly;
+
+            padding: 10px;
+
+            align-items: center;
+
+            position: sticky;
+
+            top: 0px;
+
+            z-index: 1;
+
+        }
+
+        .footer {
+
+            color: white;
+
+            background-color: #190c81;
+
+            height: 100px;
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+        }
+
+        a {
+
+            color: white;
+
+            margin: 10px;
+
+            text-decoration: none;
+
+        }
+
+        .card {
+
+            overflow: hidden;
+
+            border: 3px solid white;
+
+            border-radius: 30px;
+
+            box-shadow: 10px 10px 10px 10px #000000;
+
+        }
+
+        .card img {
+
+            transition: all 2s;
+
+        }
+
+        .card img:hover {
+
+            transform: scale(1.1);
+
+        }
+
+        .chat-button {
+
+            position: fixed;
+
+            bottom: 10px;
+
+            right: 20px;
+
+            background-color: #c99608;
+
+            color: white;
+
+            border: none;
+
+            padding: 10px;
+
+            border-radius: 40px;
+
+        }
+
+        .panel {
+
+            width: 500px;
+
+            height: 400px auto;
+
+            background-color: #1d232b;
+
+            color: whitesmoke;
+
+            text-align: center;
+
+            margin: 40px auto;
+
+            box-shadow: 0px 0px 10px 7px rgb(255, 166, 0);
+
+        }
+
+        .row {
+
+            margin: 10px;
+
+            padding: 10px;
+
+            font-size: 30px;
+
+        }
+
+
+        input {
+
+            width: 100%;
+
+            height: 50px;
+
+            border-radius: 20px;
+
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="header">
+
+        <h1>
+
+            Crumble Cookie
+
+        </h1>
+
+        <div>
+
+            <a href="/">Home</a>
+
+            <a href="menu.html">Menu</a>
+
+            <a href="reviews.html">Reviews</a>
+
+            <a href="contact.html">Contact us</a>
+
+
+            <a href="/about">About</a>
+
+        </div>
+
+    </div>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQko3-3dGJN2VKA9TA6c7OugyZiM6yiNoWCfg&s" alt="menu" width="1600" height="1500">
+</html>
