@@ -1,0 +1,198 @@
+<html>
+
+<head>
+
+<title>Crumble Cookie</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+<style>
+
+
+.header{
+
+background-color: #081680;
+
+color: white;
+display:flex;
+justify-content: space-evenly;
+padding:10px;
+align-items:center;
+position:sticky;
+top:0px;
+z-index:1;
+
+
+}
+
+a{
+
+color: white;
+
+margin: 10px;
+
+text-decoration: none;
+
+}
+
+.card{
+    overflow: hidden;
+    border:3px solid white;
+    border-radius:30px;
+    box-shadow:10px 10px 10px 10px #0f1210
+}
+.card img{
+    transition:all 1.7s;
+}
+.card img:hover{
+    transform:scale(1.1);
+}
+
+.chat-button{
+
+position: fixed;
+
+bottom: 10px;
+
+right: 20px;
+
+background-color: #c99608;
+
+color: white;
+
+border: none;
+
+padding: 10px;
+
+border-radius: 40px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+    <div class="header">
+
+<h1>
+
+Crumble Cookie
+
+</h1>
+
+<div>
+
+<a href="/">Home</a>
+
+<a href="calculator.html">Menu</a>
+
+<a href="grade.html">Reviews</a>
+
+<a href="/about">About</a>
+
+</div>
+
+</div>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- div that will hold cards -->
+
+<div class="container mt-5">
+
+
+<div class="row">
+
+<div class="col ">
+
+<div class="card" style="width:300px">
+
+<img src="https://crumblecooky.myshopify.com/cdn/shop/files/chocolate-lovers_3.png" class="card-img-top">
+
+<div class="card-body">
+
+<h5 class="card-title">Lots to choose from!</h5>
+
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+<a href="calculator.html" class="btn btn-primary">Go to menu</a>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div class="col ">
+
+<div class="card" style="width:300px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYx3Qjp4U8uVSfE-W3292wt-WppFaFHbjw5g&s" class="card-img-top">
+
+<div class="card-body">
+
+<h5 class="card-title">More items</h5>
+
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+<a href="calculator.html" class="btn btn-primary">Go to Menu</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col ">
+
+<div class="card" style="width:300px">
+
+<img src="https://crumblepakistan.com/cdn/shop/files/2.jpg?v=1739442657&width=1500" class="card-img-top">
+
+<div class="card-body">
+
+<h5 class="card-title">Order now!</h5>
+
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+<a href="calculator.html" class="btn btn-primary">Go to Menu</a>
+
+<bullton class>
+    
+</bullton>
+
+</div>
+
+</div>
+
+</div>
+
+
+</div>
+
+
+
+</div>
